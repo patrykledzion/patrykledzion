@@ -7,7 +7,7 @@ I'm passionate developer who loves building innovative solutions. My main focus 
 🚀 XMLReader as a part of the Framework [HERE](https://github.com/patrykledzion/cpp_XMLReader) 
 
 ### My draft GitHub
-[![ssuchy00](https://img.shields.io/badge/ssuchy00-010409?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patryk-ledzion-bbb124229/)
+[![ssuchy00](https://img.shields.io/badge/ssuchy00-010409?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/ssuchy00)
 
 ### How to reach me:
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patryk-ledzion-bbb124229/)
