@@ -35,8 +35,8 @@ I'm passionate developer who loves building innovative solutions. My main focus 
 ✅ [Online Shop (React Native)](https://github.com/ssuchy00/ReactNative_OnlineShop) <br />
 
 ### All repositories:
-✅ [patrykledzion](github.com/patrykledzion?tab=repositories) <br />
-✅ [ssuchy00](github.com/ssuchy00?tab=repositories)
+✅ [patrykledzion](https://github.com/patrykledzion?tab=repositories) <br />
+✅ [ssuchy00](https://github.com/ssuchy00?tab=repositories)
 
 
 
