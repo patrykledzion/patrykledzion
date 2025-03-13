@@ -28,7 +28,7 @@ I'm passionate developer who loves building innovative solutions. My main focus 
 ✅ [Stack for structures](https://github.com/patrykledzion/C/tree/main/Structures%20Stack) <br />
 ✅ [Other tiny projects](https://github.com/patrykledzion/C) <br />
 
-### Ract and React Native: 
+### React and React Native: 
 ✅ [Table sort and filters (React)](https://github.com/ssuchy00/react-table) <br />
 ✅ [Weather App (React)](https://github.com/patrykledzion/react-weatherApp) <br />
 ✅ [Task List (React)](https://github.com/patrykledzion/React/tree/main/TaskList) <br />
