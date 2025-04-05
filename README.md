@@ -5,7 +5,7 @@ I'm passionate developer who loves building innovative solutions. My main focus 
 ### Currently working on:
 🚀 Frontend Framework for C++ [not added yet]  <br />
 🚀 [XMLReader as a part of the Framework](https://github.com/patrykledzion/cpp_XMLReader) <br /> 
-🚀 WinAPI and OpenGL wrapper as a part of the framework [not added yet] <br /> 
+🚀 [WinAPI and OpenGL wrapper](https://github.com/patrykledzion/cpp_GameEngine/tree/main/WindowsLib) <br /> 
 
 ### My draft GitHub:
 [![ssuchy00](https://img.shields.io/badge/ssuchy00-010409?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/ssuchy00)
