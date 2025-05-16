@@ -22,6 +22,7 @@ I'm passionate developer who loves building innovative solutions. My main focus 
 ✅ [Other tiny projects](https://github.com/patrykledzion/cpp) <br />
 
 ### C Projects:
+✅ [Search in files](https://github.com/patrykledzion/C_SearchInFiles) <br />
 ✅ [PingPong game](https://github.com/patrykledzion/PingPongC) <br />
 ✅ [String operations](https://github.com/patrykledzion/C/tree/main/String%20operations%20in%20C) <br />
 ✅ [String functions](https://github.com/patrykledzion/C/tree/main/String%20functions) <br />
